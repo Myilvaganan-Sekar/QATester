@@ -3,6 +3,7 @@ test-output/
 .idea/
 *.iml
 *.log
-settings/
+.settings/
 .classpath
 .project
+extent-report.html
