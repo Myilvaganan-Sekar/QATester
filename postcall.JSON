@@ -1,0 +1,10 @@
+{
+"name" : "xyz",
+"email": "xyz@gmail.com",
+"active": true,
+"address": {
+		"city":"chennai",
+		"zip":"600001"
+},
+"skills":["java", "selenium"]
+}
